@@ -25,4 +25,21 @@ Here are some ideas to get you started:
 />
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 28 June 2023 - To: 28 October 2023
+
+Total Time: 71 hrs 13 mins
+
+Python                50 hrs 49 mins  ##################-------   71.34 %
+Java                  10 hrs 16 mins  ####---------------------   14.41 %
+C++                   4 hrs 6 mins    #------------------------   05.77 %
+Markdown              3 hrs 10 mins   #------------------------   04.46 %
+CSS                   24 mins         -------------------------   00.57 %
+Prolog                22 mins         -------------------------   00.52 %
+HTML                  22 mins         -------------------------   00.52 %
+Ezhil                 12 mins         -------------------------   00.30 %
+XML                   9 mins          -------------------------   00.22 %
+```
+
 <!--END_SECTION:waka-->
