@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   src="https://github.com/EtherFin/EtherFin/blob/master/images/stat.svg"
   alt="Work Dashboard"
 />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
