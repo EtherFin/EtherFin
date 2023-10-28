@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtherFin)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&bg_color=DEG,#FF0000,#FF6600,#FFCC00,#00FF00,#0066FF,#9900FF,#FF00CC,#333333,#666666,#999999)
 
 <!--START_SECTION:waka-->
 
