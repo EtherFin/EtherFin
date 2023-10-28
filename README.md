@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtherFin&bg_color=30,e96443,e97f43,e99943,e9b443,e9ce43,e9e843,d3e943,bee943,a9e943,94e943&title_color=fff&text_color=000&show_icons=true&icon_color=000)
+
 
 <img
   src="https://github.com/EtherFin/EtherFin/blob/master/images/stat.svg"
