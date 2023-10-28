@@ -18,4 +18,13 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtherFin&bg_color=30,e96443,e97f43,e99943,e9b443,e9ce43,e9e843,d3e943,bee943,a9e943,94e943&title_color=fff&text_color=000&show_icons=true&icon_color=000)
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       24 mins         █████████▒░░░░░░░░░░░░░░░   37.24 %
+CSS          21 mins         ████████▒░░░░░░░░░░░░░░░░   32.96 %
+HTML         12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+Markdown     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+```
+
 <!--END_SECTION:waka-->
