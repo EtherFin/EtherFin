@@ -25,7 +25,7 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
+          BLOCKS: -# # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
@@ -35,9 +35,9 @@ jobs:
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
+          #COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          #TARGET_BRANCH: master # optional
+          #TARGET_PATH: README.md # optional
           #COMMITTER_NAME: GitHubActionBot # optional
           #COMMITTER_EMAIL: action-bot@github.com # optional
           #AUTHOR_NAME: YOUR_NAME # optional
