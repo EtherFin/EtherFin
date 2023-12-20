@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 June 2023 - To: 18 December 2023
+From: 28 June 2023 - To: 19 December 2023
 
-Total Time: 79 hrs 58 mins
+Total Time: 80 hrs 9 mins
 
-Python                57 hrs 47 mins  ##################-------   72.24 %
-Java                  10 hrs 16 mins  ###----------------------   12.84 %
-Markdown              4 hrs 12 mins   #------------------------   05.26 %
-C++                   4 hrs 6 mins    #------------------------   05.14 %
+Python                57 hrs 47 mins  ##################-------   72.07 %
+Java                  10 hrs 27 mins  ###----------------------   13.03 %
+Markdown              4 hrs 12 mins   #------------------------   05.25 %
+C++                   4 hrs 6 mins    #------------------------   05.13 %
 Qt UI file            26 mins         -------------------------   00.56 %
 CSS                   24 mins         -------------------------   00.50 %
 Prolog                22 mins         -------------------------   00.47 %
