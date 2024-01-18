@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 June 2023 - To: 15 January 2024
+From: 28 June 2023 - To: 16 January 2024
 
 Total Time: 80 hrs 9 mins
 
