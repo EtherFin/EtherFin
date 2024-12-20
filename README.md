@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 June 2023 - To: 18 December 2024
+From: 28 June 2023 - To: 19 December 2024
 
-Total Time: 169 hrs 10 mins
+Total Time: 169 hrs 42 mins
 
-Python                71 hrs 5 mins   ##########---------------   41.99 %
-Java                  33 hrs 33 mins  #####--------------------   19.82 %
-Vue.js                30 hrs 53 mins  #####--------------------   18.24 %
-C++                   8 hrs 54 mins   #------------------------   05.26 %
-HTML                  5 hrs 50 mins   #------------------------   03.45 %
-Markdown              4 hrs 23 mins   #------------------------   02.59 %
+Python                71 hrs 34 mins  ###########--------------   42.14 %
+Java                  33 hrs 33 mins  #####--------------------   19.76 %
+Vue.js                30 hrs 53 mins  #####--------------------   18.18 %
+C++                   8 hrs 54 mins   #------------------------   05.25 %
+HTML                  5 hrs 50 mins   #------------------------   03.44 %
+Markdown              4 hrs 23 mins   #------------------------   02.58 %
 Java Properties       2 hrs 12 mins   -------------------------   01.30 %
-TypeScript            1 hr 41 mins    -------------------------   01.00 %
-XML                   1 hr 8 mins     -------------------------   00.68 %
+TypeScript            1 hr 41 mins    -------------------------   00.99 %
+XML                   1 hr 8 mins     -------------------------   00.67 %
 ```
 
 <!--END_SECTION:waka-->
